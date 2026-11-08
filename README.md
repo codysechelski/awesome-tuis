@@ -551,6 +551,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 - [arttime](https://github.com/reportaman/arttime) An app that brings beauty of text-art together with functionality of clock, timer, and pattern-based time manager.
 - [asciiMol](https://github.com/dewberryants/asciiMol) Curses based ASCII molecule viewer for linux terminals.
+- [bible-tui](https://github.com/codysechelski/bible-tui) A fast, dependency-free terminal Bible reader with Vim-style keys, full-Bible fuzzy search, side-by-side version comparison, marks, and highlights. Ships with the KJV and ASV.
 - [bluetui](https://github.com/pythops/bluetui) A TUI for managing bluetooth devices.
 - [bluetuith](https://github.com/darkhz/bluetuith) A TUI-based bluetooth connection manager, which can interact with bluetooth adapters and devices.
 - [Caligula](https://github.com/ifd3f/caligula) A user-friendly, lightweight TUI for imaging disks.
